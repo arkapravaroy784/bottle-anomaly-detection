@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+numpy
+matplotlib
+ultralytics
+timm
+opencv-python-headless
