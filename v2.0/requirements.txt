@@ -1,3 +1,4 @@
+HEAD
 streamlit
 torch
 torchvision
@@ -6,3 +7,13 @@ matplotlib
 ultralytics
 timm
 opencv-python-headless
+=======
+streamlit
+torch
+torchvision
+numpy
+matplotlib
+ultralytics
+timm
+opencv-python-headless
+b3ebc2a (v2.0: major update with new structure and improvements)
