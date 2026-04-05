@@ -18,7 +18,7 @@ interactive **Streamlit web application**.
 - Optimized inference for CPU and GPU environments
 
 ## Key Insights
-- Smooth and structured objects like bottles are well-suited for feature based
+- Smooth and structured objects like bottles are well suited for feature based
   anomaly detection
 - Pretrained CNN features capture subtle surface defects effectively
 - Simpler models with strong representations outperform deeper but unfocused architectures
