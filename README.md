@@ -1,4 +1,4 @@
-# Anomaly Detection (MVTec)
+# Bottle Anomaly Detection (MVTec)
 
 Unsupervised basic anomaly detection system using
 deep feature extraction and reconstruction-based techniques, deployed as an
